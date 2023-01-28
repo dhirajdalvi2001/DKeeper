@@ -21,7 +21,7 @@ Homepage (Before any changes)
 ![image](https://user-images.githubusercontent.com/91786927/203783939-1a15ab43-3b80-4a4d-ab87-68eecfe1b696.png)  
 
   
-##Commands :
+##Commands :  
 dfx start  
 dfx deploy  
 npm start  
