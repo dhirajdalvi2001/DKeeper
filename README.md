@@ -22,6 +22,6 @@ Homepage (Before any changes)
 
   
 ##Commands :
-dfx start
-dfx deploy
-npm start
+dfx start  
+dfx deploy  
+npm start  
